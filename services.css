@@ -1,0 +1,104 @@
+html {
+	display: flex;
+}
+
+h2, h3 {
+	font-family: 'Bangers', cursive;
+	letter-spacing: 1px;
+	margin-bottom: 15px;
+	font-size: 12pt;
+}
+
+button {
+	box-sizing: border-box;
+}
+
+body {
+	height: 100%;
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 10pt;
+	margin-bottom: 4%;
+}
+
+nav {
+	flex-wrap: nowrap;
+	justify-content: space-evenly;
+}
+
+.BodyHead {
+	margin-bottom: 20px;
+	border-bottom: 2px solid black;
+	justify-content: flex-start;
+}
+
+.subheading {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: flex-start;
+}
+
+	.subheading .box1 {
+		padding: 2%;
+		border: 2px solid black;
+		background: gainsboro;
+		justify-content: flex-start;
+		align-content: flex-start;
+		width: 45%;
+		height: 30%;
+		margin: 20px;
+	}
+
+	.subheading .box2 {
+		padding: 2%;
+		border: 2px solid black;
+		background: gainsboro;
+		justify-content: flex-start;
+		align-content: flex-start;
+		width: 45%;
+		height: 30%;
+		margin: 20px;
+	}
+
+	.subheading .box3 {
+		padding: 2%;
+		border: 2px solid black;
+		background: gainsboro;
+		justify-content: flex-start;
+		align-content: flex-start;
+		width: 45%;
+		height: 30%;
+		margin: 20px;
+	}
+
+	.subheading .box4 {
+		padding: 2%;
+		border: 2px solid black;
+		background: gainsboro;
+		justify-content: flex-start;
+		align-content: flex-start;
+		width: 45%;
+		height: 30%;
+		margin: 20px;
+	}
+
+	.subheading .box5 {
+		padding: 2%;
+		border: 2px solid black;
+		background: gainsboro;
+		justify-content: flex-start;
+		align-content: flex-start;
+		width: 45%;
+		height: 30%;
+		margin: 20px;
+	}
+
+	.subheading .box6 {
+		padding: 2%;
+		border: 2px solid black;
+		background: gainsboro;
+		justify-content: flex-start;
+		align-content: flex-start;
+		width: 45%;
+		height: 30%;
+		margin: 20px;
+	}
